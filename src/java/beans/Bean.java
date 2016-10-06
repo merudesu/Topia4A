@@ -15,9 +15,8 @@ import javax.enterprise.context.Dependent;
 @Named(value = "bean")
 @Dependent
 public class Bean {
-    //変更テスト//了解
+    //試験//了解
     public void test(){}
-
     /**
      * Creates a new instance of Bean
      */
